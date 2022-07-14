@@ -2,6 +2,7 @@
 Example website generated from the script at https://github.com/hiAndrewQuinn/hugo-plain-theme . No other alterations have been made.
 
 ## Quickstart
+
 ```bash
 git clone https://github.com/hiAndrewQuinn/hugo-plain-theme-example.git
 cd hugo-plain-theme-example
@@ -11,3 +12,8 @@ cd hugo-plain-theme-example
 # content/_index.md.
 hugo server -D
 ```
+
+## Quickstart - Fork and host on [Netlify](https://www.netlify.com/)
+
+_Consider reading my related [How-to-Host-One-HTML.Page](https://how-to-host-one-html.page) site, which also uses Netlify to host static content._
+
